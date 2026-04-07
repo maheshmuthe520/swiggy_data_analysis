@@ -242,3 +242,5 @@ where rnk <= 5
 group by cuisine
 order by total_revenue desc
 limit 5;
+
+
